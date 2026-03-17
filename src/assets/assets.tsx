@@ -1,4 +1,4 @@
-import { FaDribbble, FaGithub, FaLinkedinIn, FaTwitter } from 'react-icons/fa';
+import { FaDribbble, FaFacebook, FaGithub, FaLinkedinIn, FaTwitter } from 'react-icons/fa';
 import brightMatterImg from '../assets/Brigthmatter.png'
 import brightImg from '../assets/bright.png'
 import profileImg from '../assets/profile.jpg';
@@ -39,10 +39,10 @@ export const navItems = [
 ];
 
 export const socialPlatforms = [
-    { icon: FaTwitter, href: '#' },
-    { icon: FaGithub, href: '#' },
-    { icon: FaLinkedinIn, href: '#' },
-    { icon: FaDribbble, href: '#' },
+    { icon: FaTwitter, href: 'https://x.com/nzshakib' },
+    { icon: FaGithub, href: 'https://github.com/nshakib' },
+    { icon: FaLinkedinIn, href: 'https://www.linkedin.com/in/nazmus-shakib/' },
+    { icon: FaFacebook, href: 'https://www.facebook.com/dev.nshakib/' },
 ];
 
 export const projects = [ 
