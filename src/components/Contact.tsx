@@ -1,4 +1,3 @@
-import React from 'react'
 import {motion} from 'framer-motion'
 import { MdEmail, MdLocationOn, MdPhone } from 'react-icons/md'
 import { socialPlatforms } from '../assets/assets'

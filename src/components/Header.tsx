@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { motion,  spring } from 'framer-motion'
 import { assets, navItems } from '../assets/assets'
 import { FiMenu, FiMoon, FiSun, FiX } from 'react-icons/fi'

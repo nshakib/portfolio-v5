@@ -1,4 +1,4 @@
-import { FaDribbble, FaFacebook, FaGithub, FaLinkedinIn, FaTwitter } from 'react-icons/fa';
+import { FaFacebook, FaGithub, FaLinkedinIn, FaTwitter } from 'react-icons/fa';
 import brightMatterImg from '../assets/Brigthmatter.png'
 import brightImg from '../assets/bright.png'
 import profileImg from '../assets/profile.jpg';

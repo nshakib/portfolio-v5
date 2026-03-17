@@ -1,5 +1,4 @@
-import React from 'react'
-import {  motion } from 'framer-motion'
+import { motion } from 'framer-motion'
 import { projects } from '../assets/assets'
 import { FaArrowRight, FaChevronDown } from 'react-icons/fa'
 const Work = () => {

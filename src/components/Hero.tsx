@@ -1,4 +1,3 @@
-import React from 'react'
 import {motion} from 'framer-motion'
 import { FaArrowRight, FaCommentDots } from 'react-icons/fa'
 import { assets, socialPlatforms } from '../assets/assets'
