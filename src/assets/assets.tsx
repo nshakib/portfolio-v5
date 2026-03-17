@@ -131,32 +131,86 @@ export const projects = [
 export const skills = [
     {
       id: 1,
-      title: "UI/UX Design",
+      title: "Javascript",
       description: "User research, wireframing, prototyping, interaction design",
       icon: FiMonitor,
     },
     {
       id: 2,
-      title: "Frontend Dev",
+      title: "React",
       description: "React, Vue, Next.js, Tailwind, GSAP, Three.js",
       icon: FiCpu,
     },
     {
       id: 3,
-      title: "Backend Dev",
+      title: "NextJS",
       description: "Node.js, Express, MongoDB, GraphQL, Firebase",
       icon: FiLayers ,
     },
     {
       id: 4,
-      title: "Mobile Dev",
+      title: "TypeScript",
       description: "React Native, Flutter, SwiftUI, Kotlin",
       icon: FiSmartphone ,
     },
     {
       id: 5,
-      title: "DevOps",
+      title: "Tailwind CSS",
       description: "Docker, AWS, CI/CD, Serverless, Microservices",
       icon: FiSettings,
     },
+    {
+      id    : 6,
+      title: "Prisma",
+      description: "Docker, AWS, CI/CD, Serverless, Microservices",
+      icon: FiSettings,
+    },
+    {
+      id: 7,
+      title: "NodeJS",
+      description: "Docker, AWS, CI/CD, Serverless, Microservices",
+      icon: FiSettings,
+    },
+    {
+      id: 8,
+      title: "ExpressJS",
+      description: "Docker, AWS, CI/CD, Serverless, Microservices",
+      icon: FiSettings,
+    },
+    {
+      id: 9,
+      title: "Redux Toolkit",
+      description: "Docker, AWS, CI/CD, Serverless, Microservices",
+      icon: FiSettings,
+    },
+    {
+      id: 10,
+      title: "MongoDB",
+      description: "Docker, AWS, CI/CD, Serverless, Microservices",
+      icon: FiSettings,
+    },
+    {
+      id: 11,
+      title: "PostgreSQL",
+      description: "Docker, AWS, CI/CD, Serverless, Microservices",
+      icon: FiSettings,
+    },
+    {
+      id: 12,
+      title: "Git & GitHub",
+      description: "Docker, AWS, CI/CD, Serverless, Microservices",
+      icon: FiSettings,
+    },
+    {
+      id: 13,
+      title: "Firebase",
+      description: "Docker, AWS, CI/CD, Serverless, Microservices",
+      icon: FiSettings,
+    },
+    {
+      id: 14,
+      title: "Framer Motion",
+      description: "Docker, AWS, CI/CD, Serverless, Microservices",
+      icon: FiSettings,
+    }
   ];
