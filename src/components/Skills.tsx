@@ -1,10 +1,10 @@
-import {motion} from 'framer-motion'
+import {motion, type Variants} from 'framer-motion'
 import { skills } from '../assets/assets'
 
 const Skills = () => {
 
   // variants
-  const containerVariants ={
+  const containerVariants:Variants ={
     hidden:{},
     show:{
       transition:{
@@ -13,12 +13,12 @@ const Skills = () => {
     },
   }
 
-  const cardVariants = {
+  const cardVariants:Variants = {
       hidden:{opacity:0, y:60},
       show:{opacity:1, y:0, transition:{duration:0.6}}
     };
   
-    const iconVariants = {
+    const iconVariants:Variants = {
       hover:{scale:1.2, rotate:10, transition:{type:"spring", stiffness:300}}
     }
   return (
