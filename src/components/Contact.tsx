@@ -100,8 +100,9 @@ const Contact = () => {
                     <input 
                     type={field === "email" ? "email" : "text"}
                     id={field}
-                    className='w-full px-4 py-3 rounded border-neo-primary/50
-                    focus:outline-none transition-all duration-300'
+                    className='w-full px-4 py-3 rounded border border-neo-primary/50
+                    focus:outline-none transition-all duration-300 
+                    placeholder:text-gray-500 dark:placeholder:text-white/50'
                     placeholder={`Enter your ${field}`}
                     />
                   </div>
@@ -118,7 +119,8 @@ const Contact = () => {
                   rows={4}
                   placeholder='Your message here...'
                   className='w-full px-4 py-3 rounded border border-neo-primary/50
-                  focus:outline-none transition-all duration-300'>
+                  focus:outline-none transition-all duration-300 
+                  placeholder:text-gray-500 dark:placeholder:text-white/50'>
 
                   </textarea>
                 </div>
